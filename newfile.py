@@ -5,3 +5,7 @@ jalfj;sajflkjaksjf;lkjasd;kfjlfalkjflkjasflkjsdakjflksdjakfjlprint"balgjblajljbl
 =======
 "3way merge"
 >>>>>>> feature
+
+
+
+'new line to feature'
