@@ -1,9 +1,4 @@
-$ cp -r Documents MyStuff
-$ ls
-Documents
-Downloads
-Music
-MyStuff and mystuff
-Templates
-Pictures
-Videos 
+print("This line will be printed.")
+print("This line will be printed.")
+print("This line will be printed.")
+
