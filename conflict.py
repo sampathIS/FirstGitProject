@@ -1,3 +1,4 @@
 print hello world
-print today is a good day
+d 
+print today is a yyyy day
 print bye
